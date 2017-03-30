@@ -1,2 +1,2 @@
-# wp-admin-log
+# wp admin log
 Wordpress admin Activity Log
